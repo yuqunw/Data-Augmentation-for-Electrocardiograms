@@ -1,0 +1,6 @@
+.vscode/
+*.zip
+*.json
+ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3/
+.cursorignore
+*.pt
